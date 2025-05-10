@@ -22,8 +22,11 @@ This project is a web scraper built in Python that collects property listings da
 
 ## 📂 Project Structure
 ETLS/
+
 ├── main.py # Main script for scraping
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 
